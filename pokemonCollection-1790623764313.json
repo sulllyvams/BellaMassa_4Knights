@@ -1,0 +1,115 @@
+[
+
+    {
+  "vscode-pokemon.defaultPokemon": [
+    {
+      "type": "gardevoir",
+      "shiny": true
+    }
+  ]
+},   
+  {
+    "color": "default",
+    "type": "gardevoir",
+    "size": "medium",
+    "name": "Pepper",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "sealeo",
+    "size": "medium",
+    "name": "Sealeo",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "chimecho",
+    "size": "medium",
+    "name": "Chimecho",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "gardevoir",
+    "size": "medium",
+    "name": "Gus",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "mewtwo",
+    "size": "medium",
+    "name": "Ruby",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "krookodile",
+    "size": "medium",
+    "name": "Jessie",
+    "generation": "gen5",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "crustle",
+    "size": "medium",
+    "name": "Jax",
+    "generation": "gen5",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "gardevoir",
+    "size": "medium",
+    "name": "Murphy",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "gallade",
+    "size": "medium",
+    "name": "Ziggy",
+    "generation": "gen4",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "gardevoir",
+    "size": "medium",
+    "name": "Oscar",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "ralts",
+    "size": "medium",
+    "name": "Lucky",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "kirlia",
+    "size": "medium",
+    "name": "Simba",
+    "generation": "gen3",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "gallade",
+    "size": "medium",
+    "name": "Hugo",
+    "generation": "gen4",
+    "originalSpriteSize": 32
+  }
+]
